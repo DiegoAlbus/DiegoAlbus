@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DiegoAlbus
-- 👀 I’m interested in up to date technologies
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently aiming to go fullstack
 - 📫 How to reach me https://www.linkedin.com/in/diego-albus-85078918a/
 
 <!---
